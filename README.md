@@ -1,0 +1,2 @@
+This repository contains the code and resources for a team project conducted as part of a data science and computer science class. Our goal is to analyze the relationship between the walkability index and physical health in various counties and states. Specifically, we focus on health problems associated with a lack of physical exercise, particularly those attributable to 'lack of walking'. Through data analysis and visualization, we aim to uncover and explain the connections between walkability and health outcomes.
+
